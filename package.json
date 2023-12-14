@@ -1,11 +1,11 @@
 {
-  "scripts": {
-    "demo": "ttsc"
-  },
-  "devDependencies": {
-    "@types/node": "13.7.7",
-    "ts-node": "8.6.2",
-    "typescript": "3.8.3",
-    "ttypescript": "^1.5.8"
-  }
+    "scripts": {
+        "start": "ttsc"
+    },
+    "devDependencies": {
+        "@types/node": "13.7.7",
+        "ts-node": "8.6.2",
+        "typescript": "3.8.3",
+        "ttypescript": "^1.5.8"
+    }
 }
